@@ -182,7 +182,7 @@ imageView.sd_setImage(with: URL(string: "http://www.domain.com/path/to/image.jpg
 
 - For details about how to use the library and clear examples, see [The detailed How to use](https://github.com/SDWebImage/SDWebImage/blob/master/Docs/HowToUse.md)
 
-## Thanks to BonseyfyinformationCenterccAshEnd
+## 789
 
 ## Animated Images (GIF) support
 
